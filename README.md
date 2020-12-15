@@ -6,13 +6,12 @@ This project is a simplified front end clone of Netflix. It was created only wit
 
 ### Tools used:
 - Owl 
-- Axios
+- CSS
 - HTML
-- Swiper JS
 
 
 ### Video Walktrough 
-![](https://github.com/AndresXI/Netflix-Clone/blob/master/netflix-demo.gif?raw=true)
+under construction ...
 
 
 
