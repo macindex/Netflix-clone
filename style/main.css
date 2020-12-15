@@ -55,9 +55,9 @@ header nav a:hover{
 
 .filme-principal .descricao{
     margin-top: 10px;
-    margin-bottom: 200px;
+    margin-bottom: 40px;
 }
-.titulo{
+.filme-principal .titulo{
     margin-top: 15%;
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
@@ -79,4 +79,11 @@ header nav a:hover{
 }
 .botao i{
     margin-right: 7px;
+}
+.container{
+	margin-left: 20px;
+}
+
+.filme-principal .container{
+	width: 70%;
 }
