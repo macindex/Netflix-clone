@@ -15,6 +15,7 @@ $('.owl-carousel').owlCarousel({
         }
     }
 });
+
 $('.nonloop').owlCarousel({
     center: true,
     items:2,
